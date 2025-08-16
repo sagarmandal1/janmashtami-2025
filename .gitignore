@@ -1,0 +1,63 @@
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# Log files
+*.log
+error_log
+access_log
+
+# Cache files
+cache/
+tmp/
+temp/
+
+# Backup files
+*.bak
+*.backup
+*_backup
+*_old
+
+# System files
+.DS_Store
+Thumbs.db
+*.pid
+
+# PHP specific
+*.phar
+composer.phar
+
+# Development files
+index_old.php
+test.php
+debug.php
+
+# Future assets (if added)
+node_modules/
+vendor/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Upload directories (if added)
+uploads/
+user_uploads/
+
+# Documentation build files
+docs/_build/
+docs/.doctrees/
